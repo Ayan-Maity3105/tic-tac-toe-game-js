@@ -11,8 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* background-color: #C30E59; */
-    background-color: #000;
+    background-color: #C30E59;
 }
 
 .container {
