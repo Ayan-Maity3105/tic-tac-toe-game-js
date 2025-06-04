@@ -16,6 +16,10 @@ Play against another player in the browser with a clean UI and win-detection log
 - Draw detection
 - "New Game" button to restart
 
+## 📸 Screenshot
+
+![Tic Tac Toe Game](assets/game-screen.png)
+
 ## 🚀 Demo
 
 🌐 Live Preview: [Play Now](https://ayan-maity3105.github.io/tic-tac-toe-game-js/)  
